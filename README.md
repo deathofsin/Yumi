@@ -14,4 +14,5 @@ Yumi is a basic moderation bot for Discord, designed to help servers maintain an
 !mute - Mutes a member
 !unmutevc - Unmutes a member in a voice channel
 !unmute - Unmutes a member
-!kick - Kicks a member```
+!kick - Kicks a member
+```
