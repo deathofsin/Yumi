@@ -19,7 +19,7 @@ async def help(ctx):
                             """, 
                             color=discord.Color.dark_purple())
         embed.set_author(name="Yumi")
-        embed.add_field(name="Github", value="[JapanSyhn Github](https://github.com/JapanSyhn)")
+        embed.add_field(name="Github", value="[JapanSyhn Github](https://github.com/JapanLain)")
         embed.add_field(name="Invite", value="[Invite Yumi in your server](https://discord.com/oauth2/authorize?client_id=1323313408652869643&permissions=8&integration_type=0&scope=bot)")
         await ctx.send(embed=embed)
     except Exception as e:
